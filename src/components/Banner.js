@@ -25,7 +25,7 @@ function Banner() {
                         PAL-AI
                  </div> 
                     <div className="banner__title_tail">
-                    <div className="box">A Machine Learning Web Application for Recommending Crop and Fertilizer in the Philippines</div>
+                    <div className="box">A Machine Learning Web Application for Recommending Crop and Fertilizer</div>
                         <div className="banner__buttons">
                             <Button onClick={cropRedirect} className="banner__button cropButton">Crop</Button>
                             <Button onClick={fertRedirect} className="banner__button fertilizerButton">Fertilizer</Button>
